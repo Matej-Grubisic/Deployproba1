@@ -1,0 +1,2 @@
+(this.webpackJsonpdeployproba=this.webpackJsonpdeployproba||[]).push([[0],{11:function(e,n,t){"use strict";t.r(n);var c=t(1),o=t.n(c),r=t(3),a=t.n(r),s=(t(8),t(9),t(0));var d=function(){return Object(s.jsx)("div",{className:"App",children:"dobar dan"})};a.a.render(Object(s.jsx)(o.a.StrictMode,{children:Object(s.jsx)(d,{})}),document.getElementById("root"))},8:function(e,n,t){},9:function(e,n,t){}},[[11,1,2]]]);
+//# sourceMappingURL=main.86b50427.chunk.js.map
